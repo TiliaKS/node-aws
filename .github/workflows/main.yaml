@@ -1,8 +1,8 @@
-name: Deploy Node.js app to AWS
+name: Deploy Node app to AWS
 
 on:
   push:
-    branches: [ main ]
+    branches: [ "main" ]
 
 jobs:
   build:

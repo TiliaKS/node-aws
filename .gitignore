@@ -1,12 +1,5 @@
-# dependencies
+
 /node_modules
-
-# misc
 .DS_Store
-*.pem
-.vscode
 
-
-# vercel
-.vercel
 /.idea/

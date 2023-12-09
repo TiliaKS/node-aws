@@ -29,7 +29,8 @@
   },
   "homepage": "https://github.com/TiliaKS/node-aws#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
