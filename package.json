@@ -1,0 +1,37 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "Node.js app on AWS EC2 Ubuntu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "dev": "nodemon app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiliaKS/node-aws.git"
+  },
+  "keywords": [
+    "aws",
+    "es2",
+    "ubuntu",
+    "linix",
+    "ci",
+    "cs",
+    "node",
+    "express",
+    "docker"
+  ],
+  "author": "Kotelevets Sergey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TiliaKS/node-aws/issues"
+  },
+  "homepage": "https://github.com/TiliaKS/node-aws#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
